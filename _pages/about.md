@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, this is Zheng Yang, a Ph.D. student at GaTech, working under the supervision of [Prof. Wenkee Lee](https://wenke.gtisc.gatech.edu/)
+Hello, this is Zheng Yang, a Ph.D. student at GaTech, working under the supervision of [Prof. Wenke Lee](https://wenke.gtisc.gatech.edu/)
 and [Prof. Brendan D. Saltaformaggio](https://saltaformaggio.ece.gatech.edu/). 
 
 My research interests include
