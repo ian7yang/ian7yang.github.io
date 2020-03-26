@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zheng Yang"
 title_separator          : "-"
 name                     : &name "Zheng Yang"
-description              : &description "Ph.D. student of Institute for Information Security & Privacy at GaTech"
+description              : &description "Ph.D. student of the Institute for Information Security & Privacy at GaTech"
 url                      : https://ian7yang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ian7yang/ian7yang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zheng Yang"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D. student of Institute for Information Security & Privacy at GaTech. Interested in Web Security"
+  bio              : "Ph.D. student of the Institute for Information Security & Privacy at GaTech."
   location         : "Atlanta, GA"
   employer         :
   pubmed           :
