@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zheng yang"
+title                    : "Zheng Yang"
 title_separator          : "-"
 name                     : &name "Zheng Yang"
 description              : &description "Ph.D. student of Institute for Information Security & Privacy at GaTech"
@@ -85,8 +85,8 @@ author:
   bio              : "Ph.D. student of Institute for Information Security & Privacy at GaTech. Interested in Web Security"
   location         : "Atlanta, GA"
   employer         :
-  pubmed           : "#"
-  googlescholar    : "#"
+  pubmed           :
+  googlescholar    :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zheng-yang-893572191/"
+  linkedin         : "zheng-yang-893572191"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
