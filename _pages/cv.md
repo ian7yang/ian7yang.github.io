@@ -26,5 +26,6 @@ Work experience
 * Apr 2014 ~ Jul 2016: DRAM Test Engineer
     * Micron Technology
    
-* Jul 2013 ~ Apr 2014: DRAM Test Engineer
+* Jul 2013 ~ Apr 2014: Product Test Engineer
     * Samsung Electronics
+
