@@ -1,7 +1,7 @@
 async function run() {
     // load face detection and face expression recognition models
     // await changeFaceDetector(TINY_FACE_DETECTOR)
-    const MODEL_URL = '/js/weights/';
+    const MODEL_URL = 'js/weights/';
     await Promise.all([
         faceapi.loadSsdMobilenetv1Model(MODEL_URL),
         faceapi.loadFaceLandmarkModel(MODEL_URL),
