@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Justitia</title>
+    <script src="/js/crypto.js"></script>
+    <script src="/js/lib/face-api.js"></script>
+    <script src="/justitia.js"></script>
+    <style>
+        body {
+            overflow: hidden;
+            margin: 0;
+        }
+        .justitia-video {
+            /*background-color: #666;*/
+            height: 100%;
+            width: 100%;
+            z-index: -1;
+            object-fit: cover;
+            transform: rotateY(180deg);
+        }
+    </style>
+</head>
+<body>
+<div style="justify-content: center; display:flex">
+    <video id="videoElement" class="justitia-video" autoplay muted playsinline></video>
+</div>
+
+</body>
+</html>
