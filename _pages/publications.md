@@ -9,9 +9,15 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-[CCS] Feng Xiao, **Zheng Yang**, Joey Allen, Guangliang Yang, Grant Williams, Wenke Lee. "Understanding and Mitigating Remote Code Execution Vulnerabilities in Cross-Platform Ecosystem" ACM Conference on Computer and Communications Security, ACM CCS 2022 (To Apprear)
+[CCS] **Understanding and Mitigating Remote Code Execution Vulnerabilities in Cross-Platform Ecosystem** (To appear)\
+Feng Xiao, **Zheng Yang**, Joey Allen, Guangliang Yang, Grant Williams, Wenke Lee.\
+In Proceedings of the 29th ACM Conference on Computer and Communications Security (CCS 2022)\
+Los Angeles CA, November 2022. (acceptance rate: TBD)
 
-[CCS] Joey Allen, **Zheng Yang**, Matthew Landen, Raghav Bhat, Harsh Grover, Andrew Chang, Yang Ji, Roberto Perdisci, Wenke Lee. "Mnemosyne: An Effective and Efficient Postmortem Watering Hole Attack Investigation System" ACM Conference on Computer and Communications Security, ACM CCS 2020 (acceptance rate: 16.9%, 127 out of 715)
+[CCS]  **Mnemosyne: An Effective and Efficient Postmortem Watering Hole Attack Investigation System**\
+Joey Allen, **Zheng Yang**, Matthew Landen, Raghav Bhat, Harsh Grover, Andrew Chang, Yang Ji, Roberto Perdisci, Wenke Lee.\
+In Proceedings of the 27th ACM Conference on Computer and Communications Security (CCS 2020)\
+Orlando FL, November 2020. (acceptance rate: 16.9%, 127 out of 715)
 
 {% include base_path %}
 
