@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Electrical and Computer Engineering, Georgia Institute of Technology, 2025 (expected)
+* M.S. in Computer Science, Georgia Institute of Technology, 2021
 * B.E. in Information Engineering, Tianjin University, 2013
-* M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, 2020
-* Ph.D in Electrical and Computer Engineering, Georgia Institute of Technology, 2025 (expected)
 
 Work experience
 ======
