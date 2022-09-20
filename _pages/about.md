@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, this is Zheng Yang, a Ph.D. student at GaTech.
+Hello, this is Zheng (Ian) Yang, a Ph.D. student at GaTech.
 
 I am advised by [Prof. Wenke Lee](https://wenke.gtisc.gatech.edu/) and co-advised by [Prof. Brendan D. Saltaformaggio](https://saltaformaggio.ece.gatech.edu/). 
 
