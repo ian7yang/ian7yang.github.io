@@ -9,6 +9,16 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+[Usenix] **TRIDENT: Towards Detecting and Mitigating Web-based Social Engineering Attacks** (To appear) \
+**Zheng Yang**, Joey Allen, Matthew Landen, Roberto Perdisci, Wenke Lee.\
+In 32nd USENIX Security Symposium (USENIX Security 23)\
+ANAHEIM CA, USA, August 2023. (acceptance rate: TBD)
+
+[CCS] **Understanding and Mitigating Remote Code Execution Vulnerabilities in Cross-Platform Ecosystem** \
+Feng Xiao, **Zheng Yang**, Joey Allen, Guangliang Yang, Grant Williams, Wenke Lee.\
+In Proceedings of the 29th ACM Conference on Computer and Communications Security (CCS 2022)\
+Los Angeles CA, November 2022. (acceptance rate: TBD)
+
 [CCS]  **Mnemosyne: An Effective and Efficient Postmortem Watering Hole Attack Investigation System**\
 Joey Allen, **Zheng Yang**, Matthew Landen, Raghav Bhat, Harsh Grover, Andrew Chang, Yang Ji, Roberto Perdisci, Wenke Lee.\
 In Proceedings of the 27th ACM Conference on Computer and Communications Security (CCS 2020)\
