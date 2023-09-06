@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-[Usenix] **TRIDENT: Towards Detecting and Mitigating Web-based Social Engineering Attacks** (Usenix 2023) \
+[Usenix] **TRIDENT: Towards Detecting and Mitigating Web-based Social Engineering Attacks**\
 **Zheng Yang**, Joey Allen, Matthew Landen, Roberto Perdisci, Wenke Lee.\
 In 32nd USENIX Security Symposium (USENIX Security 23)\
 ANAHEIM CA, USA, August 2023. (acceptance rate: TBD)\
@@ -26,7 +26,8 @@ Resources: [PDF](https://dl.acm.org/doi/pdf/10.1145/3548606.3559340)
 Joey Allen, **Zheng Yang**, Matthew Landen, Raghav Bhat, Harsh Grover, Andrew Chang, Yang Ji, Roberto Perdisci, Wenke Lee.\
 In Proceedings of the 27th ACM Conference on Computer and Communications Security (CCS 2020)\
 Orlando FL, November 2020. (acceptance rate: 16.9%, 127 out of 715) \
-Resources: [PDF](https://dl.acm.org/doi/pdf/10.1145/3372297.3423355)\
+Resources: [PDF](https://dl.acm.org/doi/pdf/10.1145/3372297.3423355)
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
