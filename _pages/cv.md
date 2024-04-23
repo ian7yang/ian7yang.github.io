@@ -15,8 +15,19 @@ Education
 * M.S. in Computer Science, Georgia Institute of Technology, 2021
 * B.E. in Information Engineering, Tianjin University, 2013
 
+Service
+======
+Program Committee Member
+* ACM CCS 2024
+
+
+
 Work experience
 ======
+* May 2024 ~ Aug 2024: Research Intern
+  * Microsoft Research
+  * Mentor: [Dr. Cormac Herley](https://www.microsoft.com/en-us/research/people/cormac/)
+
 * Jul 2018 ~ Dec 2018: Web Development Consultant
   * ThoughtWorks
   
