@@ -19,12 +19,12 @@ Runze Zhang, Ranjita Pai Sridhar, Mingxuan Yao, **Zheng Yang**, David Oygenblik,
 In Proceedings of the 2025 IEEE Symposium on Security and Privacy.\
 San Francisco, California, May 2025. (acceptance rate: 14.8%, 257/1740)
 
-[Usenix Security] **WEBRR: A Forensic System for Replaying and Investigating Web-Based Attacks in The Modern Web**\
+[USENIX Security] **WEBRR: A Forensic System for Replaying and Investigating Web-Based Attacks in The Modern Web**\
 Joey Allen, **Zheng Yang**, Feng Xiao, Matthew Landen, Roberto Perdisci, Wenke Lee.\
 In 33nd USENIX Security Symposium (USENIX Security 24)\
 Philadelphia PA, USA, August 2024. (acceptance rate: 18.3%, 417/2276)
 
-[Usenix Security] **TRIDENT: Towards Detecting and Mitigating Web-based Social Engineering Attacks**\
+[USENIX Security] **TRIDENT: Towards Detecting and Mitigating Web-based Social Engineering Attacks**\
 **Zheng Yang**, Joey Allen, Matthew Landen, Roberto Perdisci, Wenke Lee.\
 In 32nd USENIX Security Symposium (USENIX Security 23)\
 Anaheim CA, USA, August 2023. (acceptance rate: 29.2%, 422/1444)\
