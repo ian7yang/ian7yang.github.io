@@ -20,6 +20,9 @@ Service
 Program Committee Member
 * ACM CCS 2024
 
+Artifact Evaluation Program Committee Member
+* USENIX Security 2025
+
 
 
 Work experience
@@ -28,7 +31,7 @@ Work experience
   * Microsoft Research
   * Mentor: [Dr. Cormac Herley](https://www.microsoft.com/en-us/research/people/cormac/)
 
-* Jul 2018 ~ Dec 2018: Web Development Consultant
+* Aug 2018 ~ Dec 2018: Web Development Consultant
   * ThoughtWorks
   
 * Aug 2016 ~ Jul 2018: Senior Software Engineer
