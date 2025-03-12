@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -24,7 +24,6 @@ Artifact Evaluation Program Committee Member
 * USENIX Security 2025
 
 
-
 Work experience
 ======
 * May 2024 ~ Aug 2024: Research Intern
@@ -34,12 +33,9 @@ Work experience
 * Aug 2018 ~ Dec 2018: Web Development Consultant
   * ThoughtWorks
   
-* Aug 2016 ~ Jul 2018: Senior Software Engineer
+* Apr 2014 ~ Jul 2018: Senior Software Engineer
   * Micron Technology
-  
-* Apr 2014 ~ Jul 2016: DRAM Test Engineer
-    * Micron Technology
    
 * Jul 2013 ~ Apr 2014: Product Test Engineer
-    * Samsung Electronics
+  * Samsung Electronics
 
