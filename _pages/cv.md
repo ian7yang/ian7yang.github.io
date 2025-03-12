@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+My research focuses on Web security, including forensic techniques on web-based attacks and real-time defense techniques against web-based attacks such as social engineering attacks, injection attacks, etc. Underpinning all of my research is the development of fundamental techniques for out-of-band browser instrumentation and program analysis on programming languages related to the web ecosystem.
 
 Education
 ======
