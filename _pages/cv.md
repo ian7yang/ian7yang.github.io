@@ -19,10 +19,11 @@ Education
 Service
 ======
 Program Committee Member
-* ACM CCS 2024
+* The Annual Computer Security Applications Conference (ACSAC) 2025
+* The ACM Conference on Computer and Communications Security (CCS) 2024
 
 Artifact Evaluation Program Committee Member
-* USENIX Security 2025
+* The USENIX Security 2025
 
 
 Work experience
