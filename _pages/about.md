@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, this is Zheng (Ian) Yang, a Ph.D. candidate at GaTech.
+Hello, my name is Zheng (Ian) Yang, a Ph.D. candidate at Georgia Tech.
 
 I am advised by [Prof. Wenke Lee](https://wenke.gtisc.gatech.edu/) and co-advised by [Prof. Brendan D. Saltaformaggio](https://saltaformaggio.ece.gatech.edu/). 
 
@@ -16,19 +16,9 @@ My research focuses on Web security, including forensic techniques on web-based 
 
 Education
 ======
-* Ph.D. in Electrical and Computer Engineering, Georgia Institute of Technology, 2025 (expected)
+* Ph.D. in Electrical and Computer Engineering, Georgia Institute of Technology, 2025
 * M.S. in Computer Science, Georgia Institute of Technology, 2021
 * B.E. in Information Engineering, Tianjin University, 2013
-
-Service
-======
-Program Committee Member
-* The Annual Computer Security Applications Conference (ACSAC) 2025
-* The ACM Conference on Computer and Communications Security (CCS) 2024
-
-Artifact Evaluation Program Committee Member
-* The USENIX Security 2025
-
 
 Work experience
 ======
@@ -44,5 +34,15 @@ Work experience
    
 * Jul 2013 ~ Apr 2014: Product Test Engineer
   * Samsung Electronics
+
+Service
+======
+Program Committee Member
+* The Annual Computer Security Applications Conference (ACSAC) 2025
+* The ACM Conference on Computer and Communications Security (CCS) 2024
+
+Artifact Evaluation Program Committee Member
+* The USENIX Security 2025
+
 
 
