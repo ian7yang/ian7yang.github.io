@@ -9,6 +9,11 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+[IEEE DSN] **SOUNDBOOST: Effective RCA and Attack Detection for UAV via Acoustic Side-Channel** (To appear)\
+Haoran Wang, **Zheng Yang**, Sangdon Park, Yibin Yang, Seulbae Kim, Willian Lunardi, Martin Andreoni, Taesoo Kim, Wenke Lee.\
+In Proceedings of the 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN).\
+Naples, Italy, June 2025. (acceptance rate: 20.2%, 56/277) 
+
 [IEEE S&P] **COINDEF: A Comprehensive Code Injection Defense for the Electron Framework** (To appear)\
 **Zheng Yang**, Simon Chung, Jizhou Chen, Runze Zhang, Brendan Saltaformaggio, Wenke Lee.\
 In Proceedings of the 2025 IEEE Symposium on Security and Privacy.\
