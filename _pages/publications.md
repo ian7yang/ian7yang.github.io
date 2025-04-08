@@ -26,12 +26,12 @@ San Francisco, California, May 2025. (acceptance rate: 14.8%, 257/1740)
 
 [USENIX Security] **WEBRR: A Forensic System for Replaying and Investigating Web-Based Attacks in The Modern Web**\
 Joey Allen, **Zheng Yang**, Feng Xiao, Matthew Landen, Roberto Perdisci, Wenke Lee.\
-In 33nd USENIX Security Symposium (USENIX Security 24)\
+In Proceedings of the 33nd USENIX Security Symposium (USENIX Security 24)\
 Philadelphia PA, USA, August 2024. (acceptance rate: 18.3%, 417/2276)
 
 [USENIX Security] **TRIDENT: Towards Detecting and Mitigating Web-based Social Engineering Attacks**\
 **Zheng Yang**, Joey Allen, Matthew Landen, Roberto Perdisci, Wenke Lee.\
-In 32nd USENIX Security Symposium (USENIX Security 23)\
+In Proceedings of the 32nd USENIX Security Symposium (USENIX Security 23)\
 Anaheim CA, USA, August 2023. (acceptance rate: 29.2%, 422/1444)\
 Resources: [PDF](https://www.usenix.org/system/files/usenixsecurity23-yang-zheng.pdf), [Slides](https://www.usenix.org/system/files/sec23_slides_yang-zheng.pdf)\
 Media: [Georgia Tech News](https://www.cc.gatech.edu/news/new-tool-skewers-socially-engineered-attack-ads)
